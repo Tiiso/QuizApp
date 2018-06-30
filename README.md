@@ -7,3 +7,5 @@ The above process will install the app on your device for testing, you will have
 The app was built with android studio.
 
 Udacity Android Basics students have helped with the step by step instructions on how to push my project on github.
+
+Here is the link to the app on google drive: https://drive.google.com/drive/folders/1VX-vAiA8w0rBwC9AOM9Pd8sIweYHkeS5 .
